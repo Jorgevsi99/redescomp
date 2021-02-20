@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+	<s id="IntelGpu">1</s>
+	<s id="Video.Width">1366</s>
+	<s id="Video.Height">768</s>
+	<s id="Options.GraphicsQuality">1</s>
+	<s id="Options.UseLOD">1</s>
+	<s id="Options.Crowd">0</s>
+	<s id="Options.Physics">0</s>
+	<s id="Options.Flares">0</s>
+	<s id="Options.FrontRowCamera">1</s>
+	<s id="Keyboard_Menu">GREEN 308 328 RED 221 YELLOW 340 BLUE 343 ORANGE 267 CANCEL 999 START 219 BACK 235 402 311 DOWN 400 231 UP 401 327 WHAMMY 310 408 KICK 318 LEFT 265 RIGHT 309 </s>
+	<s id="Audio.BuffLen">2048</s>
+	<s id="Guitar_Keyboard">GREEN 328 308 RED 221 YELLOW 340 BLUE 343 ORANGE 267 STAR 402 318 CANCEL 999 START 219 235 BACK 999 DOWN 400 231 UP 401 327 WHAMMY 310 408 LEFT 265 RIGHT 309 
+</s>
+	<s id="Keyboard_Guitar">GREEN 210 RED 313 YELLOW 227 BLUE 236 ORANGE 252 STAR 402 318 CANCEL 999 START 219 235 BACK 999 DOWN 210 313 227 236 252 UP 210 313 227 236 252 WHAMMY 310 408 LEFT 265 RIGHT 309 </s>
+</r>
